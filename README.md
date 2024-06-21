@@ -35,7 +35,7 @@ Future updates may include:
 
 ### Contact
 
-For questions, suggestions, or collaboration opportunities, please feel free to reach out via email at [your-email@example.com](er.arnavaeron@gmail.com) or through GitHub.
+For questions, suggestions, or collaboration opportunities, please feel free to reach out via email at er.arnavaeron@gmail.com or through GitHub.
 
 ---
 
