@@ -33,21 +33,9 @@ Future updates may include:
 - Expansion of the machine learning model to cover additional plant diseases and species.
 - Enhancements in user interface and usability based on user feedback and usability studies.
 
-### Installation and Usage
-
-For detailed installation instructions and usage guidelines, please refer to the [Documentation](link-to-your-documentation) provided in this repository.
-
-### Contributions
-
-Contributions to the development of this project are welcome! Whether you're interested in adding new features, improving existing functionality, or addressing issues, please follow the guidelines outlined in [CONTRIBUTING.md](link-to-your-contributing-file).
-
-### License
-
-This project is licensed under the MIT License. See the [LICENSE](link-to-your-license-file) file for more details.
-
 ### Contact
 
-For questions, suggestions, or collaboration opportunities, please feel free to reach out via email at [your-email@example.com](mailto:your-email@example.com) or through GitHub.
+For questions, suggestions, or collaboration opportunities, please feel free to reach out via email at [your-email@example.com](er.arnavaeron@gmail.com) or through GitHub.
 
 ---
 
